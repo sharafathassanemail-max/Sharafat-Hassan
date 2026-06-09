@@ -1,5 +1,5 @@
 
-# Hi there 👋, I'm Sharafat
+# Hi 👋, I'm Sharafat Hassan
 
 <div align="center">
 
