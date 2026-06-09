@@ -98,11 +98,12 @@
 
 </div>
 
-Replace:
+Information
 
-* `sharafathassanpanhwar.
-* `Sharafat Hassan.
-* Social links with your profiles.
+* NAme = `Sharafat Hassan.
+* Social links with my profiles.
+* Linkdin = https://www.linkedin.com/in/sharafat-hassan-18091b1b2/?skipRedirect=true
+* GitHub = https://github.com/dashboard
 * Projects with your real repositories.
 * https://sharafathassan110.streamlit.app/
 * https://the-event-registration-form-xyqnz8izxwlcvxwtcf75bn.streamlit.app/
