@@ -1,4 +1,3 @@
-Here's a modern, eye-catching GitHub Profile README template that you can customize:
 
 # Hi there 👋, I'm Sharafat
 
@@ -101,9 +100,11 @@ Here's a modern, eye-catching GitHub Profile README template that you can custom
 
 Replace:
 
-* `YOUR_USERNAME` with your GitHub username.
-* `Your Name` with your actual name.
+* `sharafathassanpanhwar.
+* `Sharafat Hassan.
 * Social links with your profiles.
 * Projects with your real repositories.
+* https://sharafathassan110.streamlit.app/
+* https://the-event-registration-form-xyqnz8izxwlcvxwtcf75bn.streamlit.app/
 
 If you share your GitHub username and tech stack, I can create a fully personalized premium-style README tailored to you.
