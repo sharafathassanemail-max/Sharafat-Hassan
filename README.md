@@ -103,7 +103,7 @@ Information
 * NAme = `Sharafat Hassan.
 * Social links with my profiles.
 * Linkdin = https://www.linkedin.com/in/sharafat-hassan-18091b1b2/?skipRedirect=true
-* GitHub = https://github.com/dashboard
+* GitHub = [https://github.com/dashboard](https://github.com/sharafathassanemail-max)
 * Projects with your real repositories.
 * https://sharafathassan110.streamlit.app/
 * https://the-event-registration-form-xyqnz8izxwlcvxwtcf75bn.streamlit.app/
